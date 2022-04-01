@@ -1,0 +1,5 @@
+/outputs/
+*/outputs/*
+*.pth
+/.pytest_cache/
+
